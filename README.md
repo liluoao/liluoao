@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Liluoao's github stats](https://github-readme-stats.vercel.app/api?username=liluoao)](https://github.com/liluoao)
+[![Liluoao's github stats](https://github-readme-stats.vercel.app/api?username=liluoao&theme=monokai)](https://github.com/liluoao)
 
 <!--
 **liluoao/liluoao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
